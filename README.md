@@ -11,6 +11,11 @@
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
 </a>
 
+<a href="https://www.naukri.com/code360/profile/42ed8402-cdf9-4d08-b20e-25d2d297378e">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-9B59B6?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas Badge"/>
+</a>
+
+
 </div>
 <img src="https://komarev.com/ghpvc/?username=surabhi-agnihotri&style=flat-square&color=blue" alt="" align="center"/>
 
@@ -60,4 +65,25 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 
 ---
 
-### :Water: My Projects :
+### 💠: My Projects :
+
+### :rocket: My Projects
+
+#### Project 1: Project Name
+Description: Brief description of your project.
+
+[![Project 1 Demo](demo-url)](project-url)
+[![Project 1 Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](repo-url)
+
+#### Project 2: Project Name
+Description: Brief description of your project.
+
+[![Project 2 Demo](demo-url)](project-url)
+[![Project 2 Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](repo-url)
+
+#### Project 3: Project Name
+Description: Brief description of your project.
+
+[![Project 3 Demo](demo-url)](project-url)
+[![Project 3 Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](repo-url)
+
