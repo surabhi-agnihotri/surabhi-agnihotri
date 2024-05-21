@@ -72,32 +72,32 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 ### Projects
 
 #### 1. [Voting Web Application](https://github.com/surabhi-agnihotri/Voting-web-app)
-![Voting Web Application]()
+![Voting Web Application](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2H5X5_0Cy_U6z80DT0dt_jGt7MibGG7vjg&s)
 **Status:** Completed  
 **Role:** Full-Stack Developer (Django, HTML, CSS, JavaScript)  
 **Description:**  
 The Voting Web Application is a comprehensive platform designed to enable users to create and participate in various voting polls. Leveraging Django for the backend and HTML, CSS, and JavaScript for the frontend, this project required a full stack development approach. As a full-stack developer, I was responsible for both the backend and frontend development, ensuring seamless integration between the two layers.
 
-#### 2. [Finius: Financial Learning Website](YOUR_PROJECT_LINK)
+#### 2. [Finius: Financial Learning Website](https://github.com/surabhi-agnihotri/FINIUS)
 ![Finius: Financial Learning Website](YOUR_IMAGE_URL)
 **Status:** Completed  
 **Role:** Frontend Developer (Typescript & Tailwind CSS)  
 **Description:**  
 Finius is a financial learning website specially designed for gamified learning. The project aimed to provide an interactive platform for users to learn about various financial concepts in an engaging manner through gamification techniques. As the frontend developer, my role primarily focused on designing and implementing the user interface using Typescript and Tailwind CSS.
 
-#### 3. [Krishak](YOUR_PROJECT_LINK)
+#### 3. [Krishak](https://github.com/surabhi-agnihotri/Krishak)
 ![Krishak](YOUR_IMAGE_URL)
 **Status:** Ongoing  
 **Role:** Full Stack Developer (Frontend Design, Backend Development - Authentication)  
 **Description:**  
 Krishak is a collaborative team project focused on developing an agriculture equipment management platform. The platform aims to facilitate farmers and agriculture enthusiasts in accessing and managing various equipment related to crop protection, harvesting, and more. As a full-stack developer, my responsibilities include frontend design and backend development, specifically focusing on authentication features and equipment management functionalities.
 
-#### 4. [Spotify Clone](YOUR_PROJECT_LINK)
+#### 4. [Spotify Clone](https://github.com/surabhi-agnihotri/Spotify-Clone-Project)
 ![Spotify Clone](YOUR_IMAGE_URL)
 **Status:** Completed  
 **Role:** Full-Stack Developer
 
-#### 5. [SpotSeat](YOUR_PROJECT_LINK)
+#### 5. [SpotSeat](https://github.com/surabhi-agnihotri/SpotSeat)
 ![SpotSeat](YOUR_IMAGE_URL)
 **Status:** Ongoing  
 **Role:** Full-Stack Developer  
