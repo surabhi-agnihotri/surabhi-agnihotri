@@ -32,7 +32,7 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 
 :mailbox: How to reach me: [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:surabhi.2125cs1188@kiet.edu)
 
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
