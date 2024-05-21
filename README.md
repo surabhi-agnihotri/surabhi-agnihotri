@@ -56,7 +56,6 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 
 </div>
----
 
 ### :fire: My Stats :
 
@@ -66,7 +65,6 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surabhi-agnihotri&layout=compact&theme=vision-friendly-dark)](https://github.com/surabhi-agnihotri/github-readme-stats)
 
----
 
 
 
