@@ -72,7 +72,7 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 ### Projects
 
 #### 1. [Voting Web Application](https://github.com/surabhi-agnihotri/Voting-web-app)
-![Voting Web Application](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1SnEaL9C-AnN8DClUezRiyqPW7cWRB6Wtg&s align="center")
+![Voting Web Application](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1SnEaL9C-AnN8DClUezRiyqPW7cWRB6Wtg&s)
 <br>
 **Status:** Completed  
 **Role:** Full-Stack Developer (Django, HTML, CSS, JavaScript)  
