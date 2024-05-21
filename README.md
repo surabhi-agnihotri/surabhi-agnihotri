@@ -48,3 +48,4 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 
 </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=surabhi-agnihotri&theme=dark&background=000000)](https://git.io/streak-stats)
