@@ -22,4 +22,5 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surabhiagnihotri28/)
+:mailbox: How to reach me: [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:surabhi.2125cs1188@kiet.edu)
+
