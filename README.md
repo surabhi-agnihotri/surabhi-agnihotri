@@ -65,25 +65,41 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 
 ---
 
-### 💠: My Projects :
+
 
 ### :rocket: My Projects
 
-#### Project 1: Project Name
-Description: Brief description of your project.
+### Projects
 
-[![Project 1 Demo](demo-url)](project-url)
-[![Project 1 Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](repo-url)
+#### 1. [Voting Web Application](YOUR_PROJECT_LINK)
+![Voting Web Application](YOUR_IMAGE_URL)
+**Status:** Completed  
+**Role:** Full-Stack Developer (Django, HTML, CSS, JavaScript)  
+**Description:**  
+The Voting Web Application is a comprehensive platform designed to enable users to create and participate in various voting polls. Leveraging Django for the backend and HTML, CSS, and JavaScript for the frontend, this project required a full stack development approach. As a full-stack developer, I was responsible for both the backend and frontend development, ensuring seamless integration between the two layers.
 
-#### Project 2: Project Name
-Description: Brief description of your project.
+#### 2. [Finius: Financial Learning Website](YOUR_PROJECT_LINK)
+![Finius: Financial Learning Website](YOUR_IMAGE_URL)
+**Status:** Completed  
+**Role:** Frontend Developer (Typescript & Tailwind CSS)  
+**Description:**  
+Finius is a financial learning website specially designed for gamified learning. The project aimed to provide an interactive platform for users to learn about various financial concepts in an engaging manner through gamification techniques. As the frontend developer, my role primarily focused on designing and implementing the user interface using Typescript and Tailwind CSS.
 
-[![Project 2 Demo](demo-url)](project-url)
-[![Project 2 Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](repo-url)
+#### 3. [Krishak](YOUR_PROJECT_LINK)
+![Krishak](YOUR_IMAGE_URL)
+**Status:** Ongoing  
+**Role:** Full Stack Developer (Frontend Design, Backend Development - Authentication)  
+**Description:**  
+Krishak is a collaborative team project focused on developing an agriculture equipment management platform. The platform aims to facilitate farmers and agriculture enthusiasts in accessing and managing various equipment related to crop protection, harvesting, and more. As a full-stack developer, my responsibilities include frontend design and backend development, specifically focusing on authentication features and equipment management functionalities.
 
-#### Project 3: Project Name
-Description: Brief description of your project.
+#### 4. [Spotify Clone](YOUR_PROJECT_LINK)
+![Spotify Clone](YOUR_IMAGE_URL)
+**Status:** Completed  
+**Role:** Full-Stack Developer
 
-[![Project 3 Demo](demo-url)](project-url)
-[![Project 3 Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](repo-url)
-
+#### 5. [SpotSeat](YOUR_PROJECT_LINK)
+![SpotSeat](YOUR_IMAGE_URL)
+**Status:** Ongoing  
+**Role:** Full-Stack Developer  
+**Description:**  
+The ongoing development of the Restaurant Seat Finder website aims to assist users in locating available seats at nearby restaurants, enabling them to make reservations or walk-in based on real-time availability.
