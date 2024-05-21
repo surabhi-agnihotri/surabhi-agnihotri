@@ -26,8 +26,8 @@ I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WU
 - :seedling: Exploring Web Development particularly React, Node, TypeScipt.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
-- :comet: My portfolio using wordpress : (https://surabhisblog.infinityfreeapp.com/?i=1)
-- :mango: Say Hi to me @: (https://surabhiagnihotriportfolio.my.canva.site/)
+- :comet: My portfolio using wordpress :[!wordpress](https://surabhisblog.infinityfreeapp.com/?i=1)
+- :mango: Say Hi to me @:[!me] (https://surabhiagnihotriportfolio.my.canva.site/)
 
 :mailbox: How to reach me: [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:surabhi.2125cs1188@kiet.edu)
 
